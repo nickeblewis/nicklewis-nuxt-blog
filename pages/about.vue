@@ -75,7 +75,7 @@ defineOgImageComponent('About', {
         <p>{{ aboutPage.aboutMe }}</p>
       </div>
       <div class="hidden sm:block col-span-3">
-        <NuxtImg src="/riyad.jpg" width="450" height="500" quality="50" class="rounded-md" />
+        <NuxtImg src="https://res.cloudinary.com/dqpknoetx/image/upload/v1734429258/IMG_3889_rtew6u.jpg" width="450" height="500" quality="50" class="rounded-md" />
       </div>
     </div>
   </div>

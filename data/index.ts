@@ -1,15 +1,15 @@
 export const navbarData = {
-  homeTitle: "Riyad's Blog",
+  homeTitle: "Nick's Blog",
 }
 
 export const footerData = {
-  author: 'Al Asad Nur Riyad',
+  author: 'Nick Lewis',
   aboutAuthor:
-    'Hi! I am Riyad, a Tech enthusiast, problem solver and software engineer. Currently working at Appscode Inc.',
+    'Hi! I am Nick, a Tech enthusiast, photographer, synth nerd and software engineer. Currently working at Vixio',
   authorInterest:
     "I have a fair amount of knowledge of Javascript, Typescript, VueJs, and Nuxt. If you have an interesting idea, either open source or paid let's connect.",
   aboutTheSite:
-    "This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed in Vercel.",
+    "This is a personal blog site built with Nuxt3, TailwindCSS, NuxtContent, Nuxt Icon. Currently it's deployed on Netlify.",
 }
 
 export const homePage = {
@@ -26,26 +26,26 @@ export const blogsPage = {
 export const categoryPage = {
   title: 'Categories',
   description:
-    'Blow this category is generated from all the tags are mentioned in the different blog post',
+    'The category list below is generated from all the tags that are mentioned across the different blog posts',
 }
 
 export const aboutPage = {
-  title: 'Al Asad Nur Riyad',
-  description: 'Software Engineer, Problem Solver, Web Enthusiast.',
+  title: 'Nick Lewis',
+  description: 'Software Engineer, Photographer, Synth Nerd, Web Enthusiast.',
   aboutMe:
-    "Hello, fellow human! I'm a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I'm not crafting code, you can find me summoning solutions to problems on online judges. Just don't ask me to cast any love spells, my magic only works on machines!",
+    "Hello, I am based in Berkshire, England",
 }
 
 export const seoData = {
-  title: `Riyad's Blog | Riyads Blog`,
-  ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, & Problem Solving - Riyads Blog | Riyad's Blog`,
-  description: `Hi I am Riyad. A Software Engineer at AppsCode, with over 2.5+ years experience in software development. - Riyads Blog | Riyad's Blog`,
-  twitterDescription: `Riyad's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Riyads Blog | Riyad's Blog`,
+  title: `Nick's Blog | Nicks Blog`,
+  ogTitle: `Let's learn Javascript, Typescript, Vue, Nuxt, Photography and music - Nicks Blog | Nick's Blog`,
+  description: `Hi I am Nick. A Software Engineer at Vixio, with over 30+ years experience in software development. - Nicks Blog | Nick's Blog`,
+  twitterDescription: `Nick's Blog, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc - Nicks Blog | Nick's Blog`,
   image:
-    'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://blog-nurriyad.vercel.app',
-  twitterHandle: '@qdnvubp',
-  mailAddress: 'asadnurriyad@gmail.com',
+    'https://res.cloudinary.com/dqpknoetx/image/upload/v1734429258/IMG_3889_rtew6u.jpg',
+  mySite: 'https://nicklewis.blog',
+  twitterHandle: '',
+  mailAddress: 'nickeblewis@gmail.com',
 }
 
 export const siteMetaData = [
