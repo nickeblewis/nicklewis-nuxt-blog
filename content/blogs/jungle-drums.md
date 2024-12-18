@@ -53,7 +53,7 @@ Tidal Cycles is back as some people were asking about it and today’s example m
 
 I'm going back to using NFT.UP to store my demo files on NFT.storage, it's a nice free way to share files of all kinds, audio, image, PDF and maybe even Ableton projects etc.
 <audio controls>
-  <source src="https://nftstorage.link/ipfs/bafybeib74ezqpy53c3sbye2zld32k3f7tsnwpbzxozko7nlcad2d7flnza" type="audio/mpeg">
+  <source src="https://app.boombox.io/app/shares/cNkJvKj38XPBZwARd" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -61,4 +61,12 @@ If you are interested in learning more about Tidal Cycles and giving it a go, th
 
 # Finding my work elsewhere online
 I am on [Soundcloud](https://soundcloud.com/nickeblewis) and a lot of my work, if not nearly all of it, can be found on Soundcloud.I do have [one track](https://open.spotify.com/artist/5rmVPtGAUsJZ0cs7ae9lTU?si=fkhOUZ1OSyyuI-OSA2sLFg) at the moment on Spotify and I will grow this. I've got many more sounds stored on IPFS, which I share through blog posts like this (and [this other one](https://nicklewis.blog/posts/ipfs/)).
+
+
+<iframe 
+  src="https://samply.app/embed/IRqSD3hme5C0TTXJiRBL" 
+  frameborder="0"
+  allowtransparency="true"
+  style="width: 100%; border-radius: 16px; border: 1px solid rgba(255, 255, 255, 0.12)"
+></iframe>
 
